@@ -7,7 +7,6 @@ I'm flutter developer 💙 and UI & UX designer, passionate about build beautifu
 - building simple API's with Laravel
 - UI & UX design with adobe XD and figma
 
-# Reach Me 
 - 📫 How to reach me: [Github](https://github.com/ammarbakheit), [Twitter](https://twitter.com/AmmarBakheit), [Linkedin](https://www.linkedin.com/in/ammar-m-bakheit-3723aa127)
 
 
