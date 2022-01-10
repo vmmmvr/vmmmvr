@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm flutter developer 💙 and UI & UX designer, passionate about build beautiful,  apps 🚀
+I'm **Front end developer** well-acquainted with React.js 
 
-### I have experience with
+## Technical Skills
 - Dart & flutter framework
 - building simple API's with Laravel
 - UI & UX design with adobe XD and figma
