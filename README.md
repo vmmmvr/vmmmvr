@@ -1,6 +1,6 @@
-## Hi there 👋
+##
 
-I'm **Front end developer** well-acquainted with React.js 
+ Hi there 👋 my Name Ammar, I'm **Front end developer** well-acquainted with React.js 
 
 ## Technical Skills
 - Dart & flutter framework
