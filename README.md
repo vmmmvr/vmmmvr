@@ -12,4 +12,5 @@
 
 - email me: ammarbakheit@gmail.com
 
+<img src="https://github-readme-stats.vercel.app/api?username={ammmarbakheit} />
 
