@@ -21,8 +21,11 @@ my name is Ammar Mohammed, I'm **Front end developer** well-acquainted with Reac
 - looking forward to learn (TypeScript & Next.js) but after i feel comfortable build sizable projects with react.js first
 - getting good at Alorithms & Data Structure
 
+### reach me:
 
-- reach me: [Github](https://github.com/ammarbakheit), [Twitter](https://twitter.com/AmmarBakheit), [Linkedin](https://www.linkedin.com/in/ammar-m-bakheit-3723aa127)
+[Github](https://github.com/ammarbakheit) 
+[Twitter](https://twitter.com/AmmarBakheit)
+[Linkedin](https://www.linkedin.com/in/ammar-m-bakheit-3723aa127)
 
 - email me: ammarbakheit@gmail.com
 
