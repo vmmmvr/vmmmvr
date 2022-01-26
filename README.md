@@ -9,11 +9,12 @@ my name is Ammar Mohammed, I'm **Front end developer** well-acquainted with Reac
 - React.js (Redux) ✅
 - TailwindCSS/Bootstrap ✅
 - Node.js (express) ✅
+- MySQL, PostgresSQL ✅
 
 ### What am currently learning
 
 ### What am doing these days:
-- am building some open source projects Like **Job Board** app with ** PERN ** stack
+- am building some open source projects Like **Job Board** app with **PERN** (PostgresSQL, Express, React, Node) stack
 - will try to make a react component liberary 
 - learn something about testing 
 
@@ -22,7 +23,7 @@ my name is Ammar Mohammed, I'm **Front end developer** well-acquainted with Reac
 - getting good at Alorithms & Data Structure
 
 ### reach me:
-
+ 
 [Github](https://github.com/ammarbakheit) 
 [Twitter](https://twitter.com/AmmarBakheit)
 [Linkedin](https://www.linkedin.com/in/ammar-m-bakheit-3723aa127)
