@@ -14,7 +14,7 @@ my name is Ammar Mohammed, I'm **Front end developer** well-acquainted with Reac
 ### What am currently learning
 
 ### What am doing these days:
-- am building some open source projects Like **Job Board** app with **PERN** (PostgresSQL, Express, React, Node) stack
+- am building some open source projects Like **Job Board** app with **PERN** stack (PostgresSQL, Express, React, Node) 
 - will try to make a react component liberary 
 - learn something about testing 
 
