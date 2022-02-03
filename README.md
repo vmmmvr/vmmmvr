@@ -4,7 +4,7 @@
 my name is Ammar Mohammed, I'm **Front end developer** well-acquainted with React.js 
 
 ### what am good at:
-- HTHML, CSS ✅ 
+- HTML, CSS ✅ 
 - Javascript (ES6) ✅
 - React.js (Redux) ✅
 - TailwindCSS/Bootstrap ✅
