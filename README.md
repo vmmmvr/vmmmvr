@@ -21,8 +21,8 @@ my name is Ammar Mohammed, I'm **Back end developer** experienced with Node.js
     - learn testing 
 
 ### What are the things am looking forward to:
-- looking forward to build projects & systems 
-- getting good at Alorithms & Data Structure
+    - looking forward to build projects & systems 
+    - getting good at Alorithms & Data Structure
 
 ### reach me:
  
