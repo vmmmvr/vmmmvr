@@ -17,11 +17,11 @@ my name is Ammar Mohammed, I'm **Back end developer** experienced with Node.js
 <!-- ### What am currently learning -->
 
 ### What am doing these days:
-- building projects & RestAPI's with ( Node.js, PostgresSQL, Express) 
-- learn testing 
+    - building projects & RestAPI's with ( Node.js, PostgresSQL, Express) 
+    - learn testing 
 
 ### What are the things am looking forward to:
-- looking forward to learn (TypeScript & Next.js) but after i feel comfortable build sizable projects with react.js first
+- looking forward to build projects & systems 
 - getting good at Alorithms & Data Structure
 
 ### reach me:
