@@ -1,22 +1,18 @@
 ##
 
 #### Hi there 👋 
-my name is Ammar Mohammed, I'm **Front end developer** well-acquainted with React.js 
+my name is Ammar Mohammed, I'm **Back end developer** experienced with Node.js 
 
-### what am good at:
-- HTML5, CSS ✅ 
-- Javascript (ES6) ✅
-- React.js (Redux | Redux-toolkit | styledComponents | ContextAPI | Hooks) ✅
-- SASS | TailwindCSS | Bootstrap ✅
-- Node.js (express) ✅
-- MySQL, PostgresSQL ✅
+### my tech stack
+    - Javascript & TypeScript
+    - Node.js & Express & RestAPI
+    - MySQL & PostgreSQL & MongoDB
 
-### What am currently learning
+<!-- ### What am currently learning -->
 
 ### What am doing these days:
-- am building some open source projects Like **Job Board** app with **PERN** stack (PostgresSQL, Express, React, Node) 
-- will try to make a react component liberary 
-- learn something about testing 
+- building projects & RestAPI's with ( Node.js, PostgresSQL, Express,) 
+- learn testing 
 
 ### What are the things am looking forward to:
 - looking forward to learn (TypeScript & Next.js) but after i feel comfortable build sizable projects with react.js first
@@ -25,7 +21,7 @@ my name is Ammar Mohammed, I'm **Front end developer** well-acquainted with Reac
 ### reach me:
  
 [Github](https://github.com/ammarbakheit) 
-[Twitter](https://twitter.com/AmmarBakheit)
+<!-- [Twitter](https://twitter.com/AmmarBakheit) -->
 [Linkedin](https://www.linkedin.com/in/ammar-m-bakheit-3723aa127)
 
 - email me: ammarbakheit@gmail.com
