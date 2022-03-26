@@ -3,15 +3,21 @@
 #### Hi there 👋 
 my name is Ammar Mohammed, I'm **Back end developer** experienced with Node.js 
 
-### my tech stack
+### my tech stack:
     - Javascript & TypeScript
     - Node.js & Express & RestAPI
     - MySQL & PostgreSQL & MongoDB
+    - mongoose & prisma & sequelize
 
-<!-- ### What am currently learning -->
+### am good also:
+    - React & Redux & Redux-toolkit
+    - TailwindCss & SASS
+    - MySQL & PostgreSQL & MongoDB
+
+### What am currently learning
 
 ### What am doing these days:
-- building projects & RestAPI's with ( Node.js, PostgresSQL, Express,) 
+- building projects & RestAPI's with ( Node.js, PostgresSQL, Express) 
 - learn testing 
 
 ### What are the things am looking forward to:
