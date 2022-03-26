@@ -4,9 +4,9 @@
 my name is Ammar Mohammed, I'm **Back end developer** experienced with Node.js 
 
 ### my tech stack
-    - Javascript & TypeScript
-    - Node.js & Express & RestAPI
-    - MySQL & PostgreSQL & MongoDB
+    * Javascript & TypeScript
+    * Node.js & Express & RestAPI
+    * MySQL & PostgreSQL & MongoDB
 
 <!-- ### What am currently learning -->
 
