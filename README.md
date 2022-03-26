@@ -14,7 +14,7 @@ my name is Ammar Mohammed, I'm **Back end developer** experienced with Node.js
     - TailwindCss & SASS
     - MySQL & PostgreSQL & MongoDB
 
-### What am currently learning
+<!-- ### What am currently learning -->
 
 ### What am doing these days:
 - building projects & RestAPI's with ( Node.js, PostgresSQL, Express) 
