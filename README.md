@@ -2,26 +2,24 @@
 
 #### Hi there 👋
 
-**my name is Ammar and I'm Back end developer who love building cool stuff with Javascript, TypeScript and Node.js.**
+**my name is Ammar and I'm Back End developer who love building cool stuff with Javascript, TypeScript and Node.js.**
 
-### my tech stack:
+### my Tech Stack:
 
 - Javascript & TypeScript
-- Node.js & Express & RestAPI
+- Node.js & Express &
 - MySQL & PostgreSQL & MongoDB
-- mongoose & prisma & sequelize
-  sa
+- REST API & Microservices
+- Docker
 
 ### What am doing these days:
 
-    - building projects & RestAPI's with ( Node.js, PostgresSQL, Express)
-    - learn about testing
+- Getting good at working with CI/CD tools
+- Shipping well designed, tested features
 
 ### What are the things am looking forward to:
 
-    - looking forward to build projects & scalable systems
-    - getting good at Alorithms & Data Structure
-    - learn DevOps
+- Build systems that server 100K of regualar costumers
 
 ### reach me:
 
