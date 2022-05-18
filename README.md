@@ -19,7 +19,7 @@
 
 ### What are the things am looking forward to:
 
-- Build systems that server 100K of regualar costumers
+- Build systems that server hundreds of thousands of users
 
 ### reach me:
 
