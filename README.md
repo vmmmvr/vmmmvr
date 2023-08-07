@@ -2,7 +2,7 @@
 
 #### Hi there 👋
 
-**my name is Ammar and I'm Back End developer who love building cool stuff with Javascript, TypeScript and Node.js.**
+**my name is Ammar and I'm full stack developer who love building cool stuff with Javascript, TypeScript React, and Node.js.**
 
 ### my Tech Stack:
 
