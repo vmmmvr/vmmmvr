@@ -2,25 +2,37 @@
 
 #### Hi there 👋
 
-**my name is Ammar and I'm full stack developer who love building cool stuff with Javascript, TypeScript React, and Node.js.**
+**my name is Ammar and I'm software developer who love building cool stuff with Javascript & Node.js.**
 
-### my Tech Stack:
+### aquired skills 
+    - LANGUAGES & FRAMEWORKS
+      - javascript
+      - Typescript
+      - Nodejs
+      - react
 
-- Javascript & TypeScript
-- Node.js & Express &
-- MySQL & PostgreSQL & MongoDB
-- REST API & Microservices
-- Docker
+    - FRAMEWORKS & LIBERARIES
+        - express
+        - nestjs
+        - socketIO
+        - GraphQL
 
-### What am doing these days:
+    - INFRASTRUCTURE & DevOps
+      - docker
+      - gitlab ci/cd
 
-- Getting good at working with CI/CD tools
-- Shipping well designed, tested features
+    - DATABASE 
+      - postgresql
+      - mysql
+      - mongodb
+      - redis
 
-### What are the things am looking forward to:
-
-- Build systems that server hundreds of thousands of users
-
+    - MESSAGING/ STREAMING
+      - sqs
+      - rabbitmq
+    
+    - TESTING
+      - jest
 ### reach me:
 
 [Github](https://github.com/ammarbakheit)
